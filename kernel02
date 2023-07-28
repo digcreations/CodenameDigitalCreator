@@ -1,0 +1,15 @@
+    name:'redacted_mpf2cte_ver.290029kernel'
+       {if:'localhost':'config':'retromade'}
+       start:'line 4' 
+       [lua:config'gmodlocalscript'change:line'44'with:localhost:write:github.com/creators/digitalcreator/linedscript/localhostmpf]
+optimize:'robloxhostscript'       
+";mpfkernel02_version.290029"
+{kernel:"read":"localhost/gmodcomputer1":repeating:"1,2,3,4,5"}
+"HosterLocalAppDataFolder":true,
+"LocalHostAccessByOwner":true,
+"ReadStatusOfEditor":true,
+"ConfigMaxEditors":1930,
+"LoadKernelsFromGithubProcesses":true,
+"HackingUtilEnableEditingBricks":false,
+"BanUtilBricksban>":true,
+"ReportAnyActivity":true,
